@@ -12,7 +12,3 @@ Phone numbers and emails are standard formats.
 Images are selected from gallery with an intent.
 
 [Screenshots](https://github.com/agnostic-apollo/Contacts/tree/master/screenshots)  
-[Download APK](https://github.com/agnostic-apollo/Contacts/releases)  
-
-Credits  
- [EmergentOrder opencsv](https://github.com/EmergentOrder/opencsv)  
